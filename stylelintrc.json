@@ -2,14 +2,13 @@
   "extends": "stylelint-config-standard",
   "rules": {
     "declaration-block-properties-order":[
-      [ 'composes', 'display', 'flex-direction', 'align-items',
-        'float', 'position', 'top','right', 'bottom', 'left',
-        'width', 'max-width', 'height', 'max-height',
-        'margin', 'padding',
-        'border', 'border-image', 'border-radius', 'box-shadow','background-color', 'background-image',
-        'font-family', 'font-size','font-weight', 'text-transform', 'letter-spacing'
+      [ "composes", "display", "flex-direction", "align-items",
+        "float", "position", "top","right", "bottom", "left",
+        "width", "max-width", "height", "max-height",
+        "margin", "padding",
+        "border", "border-image", "border-radius", "box-shadow","background-color", "background-image",
+        "font-family", "font-size","font-weight", "text-transform", "letter-spacing"
       ],
-      { unspecified: "bottomAlphabetical" }]
+      { "unspecified": "bottomAlphabetical" }]
   }
 }
-
