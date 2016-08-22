@@ -21,7 +21,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ciena-frost/stylelint-config-frost-standard#readme",
   "devDependencies": {
-    "ava": "^0.15.0"
+    "ava": "0.15.0"
   },
   "dependencies": {
     "stylelint": "^6.8.0",
