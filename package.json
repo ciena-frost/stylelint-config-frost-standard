@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-frost-standard",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Standard StyleLint rules for Frost projects",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,7 @@
     "stylelint"
   ],
   "author": "",
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "MIT",
   "homepage": "https://github.com/ciena-frost/stylelint-config-frost-standard#readme",
   "devDependencies": {
